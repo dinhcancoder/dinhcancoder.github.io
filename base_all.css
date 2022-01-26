@@ -11,9 +11,6 @@ max-width: 100%;
 }
 
 @media (max-width: 574.98px) {
-    .container {
-        padding: 0 10px;
-    }
 }
 
 @media (min-width: 576px) {
