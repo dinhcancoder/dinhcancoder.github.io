@@ -1,1 +1,1 @@
-alert('Website này do " Cao Đình Can " tạo ra, và thuộc quyền sở hữu của " Can ".👌')
+alert('Lưu ý : Website này do " Cao Đình Can " tạo ra, và thuộc quyền sở hữu của " Can ".👌')
